@@ -12,4 +12,6 @@ The app works from keyboard inputs:
 - Type '!remove' command to remove a task from the list;
 - Type '!finish' to stop the app.
 
-NOTE: All the inputs are case sensitive in this app version: 'Call' and 'call' are not the same words
+When '!finish' command is typed, a 'tasks.txt' file is created saving the latest data entered before command input.
+
+NOTE: All the inputs are case sensitive in this app version: 'Call' and 'call' are not the same words.
