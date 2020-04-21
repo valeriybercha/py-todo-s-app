@@ -5,7 +5,7 @@
 - Version: 0.1 (beta)
 - Author: Valeriy B.
 
-Usage:
+### Usage
 The app works from keyboard inputs:
 - Type a task you want to add to the 'TO DO' app list;
 - Type '!print' command to print the tasks from the app list;
