@@ -15,3 +15,6 @@ The app works from keyboard inputs:
 When '!finish' command is typed, a 'tasks.txt' file is created saving the latest data entered before command input.
 
 NOTE: All the inputs are case sensitive in this app version: 'Call' and 'call' are not the same words.
+
+Screenshot:
+![TODO app s screenshot](https://github.com/valeriybercha/py-todo-s-app/blob/master/todo-s-screen.jpg)
